@@ -1,5 +1,6 @@
 {
-  "name": "npm-test-lib",
+  "name": "ns-test-lib",
+  "version": "1.0.0",
   "main": "lib/index.js",
   "files": [
     "lib",
